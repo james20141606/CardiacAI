@@ -1,0 +1,11 @@
+method	target	cv_fold	train_size	test_size	class_size(normal_anzhen)	class_size(VSD)	accuracy	roc_auc
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	0	1926	238	48	190	0.920168067227	0.967653508772
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	1	1926	238	58	180	0.899159663866	0.945402298851
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	2	1926	238	42	196	0.911764705882	0.95711856171
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	3	1926	238	49	189	0.840336134454	0.939207429003
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	4	1926	238	44	194	0.819327731092	0.96286316776
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	5	1926	238	60	178	0.764705882353	0.923970037453
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	6	1926	238	52	186	0.773109243697	0.959263854425
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	7	1926	238	49	189	0.90756302521	0.97073750135
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	8	1926	238	46	192	0.810924369748	0.96433423913
+vgg16_mask_unet_vgg16	normal_anzhen,VSD	9	1927	237	52	185	0.497890295359	0.946465696466
