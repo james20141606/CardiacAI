@@ -1,6 +1,8 @@
 
 ## CardiacAI
 
+Also see my [website page](https://www.cmwonderland.com/blog/2018/08/16/95_medical_image_project/)
+
 ## Goal and Philosophy
 
   Diagnosis of cardiac diseases using AI
