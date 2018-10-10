@@ -1,6 +1,7 @@
 
 ## CardiacAI
 
+See https://arxiv.org/abs/1808.08277.pdf
 Also see my [website page](https://www.cmwonderland.com/blog/2018/08/16/95_medical_image_project/)
 
 ## Goal and Philosophy
